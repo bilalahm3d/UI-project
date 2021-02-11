@@ -205,7 +205,10 @@ input[type=number] {
 	padding: 15px;
 	border: 1px solid white;
 }
-
+.links i.fa:hover{
+	background: white;
+	color: #293b4c;		
+}
 .container {
 	max-width: 1838px;
 	min-width: 480px;
