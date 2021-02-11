@@ -142,8 +142,12 @@ body{
 		background: white;
 		color: #293b4c;		
 	}
-	.container{
+	.align{
 		max-width: 1838px;
+		margin: auto;
+	}
+	.container{
+		
 		min-width: 480px;
 		margin: auto;
 	}
